@@ -199,19 +199,17 @@ function extractEmails(str) {
  *             '└──────────┘\n'
  *
  */
-function getRectangleString(width, height) {
-  for (let i = 0; i < width; i++) {
-    for (let j = 0; j < height; j++) {
-      switch () {
-        case value:
-
-          break;
-
-        default:
-          break;
-      }
-    }
-  }
+function getRectangleString(/* width, height */) {
+  // for (let i = 0; i < width; i++) {
+  //   for (let j = 0; j < height; j++) {
+  //     switch () {
+  //       case value:
+  //         break;
+  //       default:
+  //         break;
+  //     }
+  //   }
+  // }
 }
 
 /**
